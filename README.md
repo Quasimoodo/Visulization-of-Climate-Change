@@ -1,5 +1,6 @@
 # Visulization-of-Climate-Change
 This is a reaction-able dashboard , to visualize that indivuals` small changes could make a huge difference on this global issue. The project is developed with Python, altair and streamlit. Project for A Course.
+You can find more details and explanation in the Report.
 ## Data
 The attached csv is collected from[9] and processed, which is the future temperatures.
 
@@ -21,7 +22,7 @@ issions_factors_sources_for_2020_electricity_v1_3.pdf
 g=en
 
 [8] NOAA National Centers for Environmental information, Climate at a Glance: National Time Series, published December
-2023, retrieved on December 17, 2023 from https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/national/timeseries
+2023, retrieved on December 17, 2023 from https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/national/time-series
 
 [9] How are CO₂ concentrations related to warming? https://factsonclimate.org/infographics/concentration-warming-relations
 hip
